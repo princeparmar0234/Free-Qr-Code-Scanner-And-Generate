@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137400954459",
+    "project_id": "qrcode-scanner-9658d",
+    "storage_bucket": "qrcode-scanner-9658d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137400954459:android:76d3bdc9887577bced997e",
+        "android_client_info": {
+          "package_name": "princeparmar.qrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137400954459-vsrupegd3i1nt7f6k7co1j0rj9v3d65b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAapO1h-ULOeHSDHJ-OSGeg0STxc851gjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137400954459-vsrupegd3i1nt7f6k7co1j0rj9v3d65b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
